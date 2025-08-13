@@ -1,0 +1,1 @@
+{"rsync":{"/var/www/html":{"type":"rsync","guestpath":"/var/www/html","hostpath":"C:/Users/Miriam.Bautista/Desktop/PROYECTOS/MBT/proyectDevOps/semana1/proyect-prueba-deploy","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
